@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+build/
+dist/
+coverage/
+.vscode/
+.env
+*.log
+npm-debug.log*
